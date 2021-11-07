@@ -6,6 +6,7 @@
 * [decoder.v](src/decoder.v)
 * [divi_1hz.v](src/divi_1hz.v)
 * [div_250hz.v](src/div_250hz.v)
+* [dvf.v](src/dvf.v)
 * [keytest.v](src/keytest.v)
 * [mux21a.v](src/mux21a.v)
 * [mux38.v](src/mux38.v)
